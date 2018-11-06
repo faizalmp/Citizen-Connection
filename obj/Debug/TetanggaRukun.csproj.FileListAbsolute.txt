@@ -1,0 +1,16 @@
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\bin\Debug\WargaDatabase.accdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\bin\Debug\DatabaseWarga.exe.config
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\bin\Debug\DatabaseWarga.exe
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\bin\Debug\DatabaseWarga.pdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.Citizens_Profile.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.Login.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.Menu.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.Properties.Resources.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.Register.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.ShowNews.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.User_Profile.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.WriteNews.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\TetanggaRukun.csproj.GenerateResource.Cache
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.exe
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\DatabaseWarga.pdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\DatabaseWarga\DatabaseWarga\obj\Debug\TetanggaRukun.csprojResolveAssemblyReference.cache
